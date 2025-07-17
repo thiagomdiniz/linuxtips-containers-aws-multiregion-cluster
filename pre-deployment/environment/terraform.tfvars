@@ -1,2 +1,5 @@
-project_name = "sales-cluster"
-region       = "us-east-1"
+project_name        = "sales-cluster"
+region              = "us-east-1"
+region_secondary    = "sa-east-1"
+acm_dns_name        = "*.tdiniz.link"
+route53_hosted_zone = "Z027957834ITKR5SATJ7C"

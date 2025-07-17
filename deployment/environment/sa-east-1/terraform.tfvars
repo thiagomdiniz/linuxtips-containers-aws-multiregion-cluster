@@ -12,3 +12,7 @@ ssm_private_subnets = [
   "/linuxtips-multiregion/vpc/private/sa-east-1b",
   "/linuxtips-multiregion/vpc/private/sa-east-1c",
 ]
+
+acm_dns_certs = [
+  "*.tdiniz.link"
+]
